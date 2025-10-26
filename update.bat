@@ -1,5 +1,5 @@
 @echo off
-title installer 
+title installer  
     if exist requirements.txt (
 		echo installing wheel for faster installing
                 pip install requests
