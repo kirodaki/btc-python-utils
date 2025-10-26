@@ -1,0 +1,7 @@
+include btcutils/consumption.json
+include btcutils/cps.csv.gz
+include btcutils/cps_weights.csv.gz
+include btcutils/growdiff.json
+include btcutils/growfactors.csv
+include btcutils/policy_current_law.json
+include btcutils/records_variables.json
