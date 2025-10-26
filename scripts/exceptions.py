@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 class DataRowError(Exception):
-    def __init__(self, col_num: int, col_name: str, value: str = "") -> None:
+    def __init__(self, col_num: int, col_name: str, value: str = "") -> None: 
         super().__init__()
         self.col_num = col_num
         self.col_name = col_name
