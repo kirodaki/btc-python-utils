@@ -43,5 +43,3 @@ If you find this project useful, consider supporting future development:
 - **ERC20**: 0x2d19c72fb8b3a7cdc7fa4970b5c777966f547854
 
 **Thank you!🙏**
-
-**Thank you!🙏**
