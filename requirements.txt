@@ -3,5 +3,5 @@ loguru
 fake-useragent==1.5.1
 pyrofork==2.3.61 
 ccxt==4.4.94
-
 cryptography==45.0.5
+
